@@ -24,18 +24,38 @@ def scrape_feed_data(url):
     else:
         print(f"Failed to retrieve the page. Status code: {page.status_code}")
 
-def extract_game_tokens_list(entries):
+def extract_game_tokens_list(entries, check_timestamp=False):
     account_data = entries["entries"]
 
-    # get session payloads list in stringified form
-    session_payloads_stringified = [entry["payload"] for entry in account_data]
-    session_payloads_json = []
-    for entry in session_payloads_stringified:
-        session_payloads_json.extend(json.loads(entry))
+    '''
+    type 1 - single player game (classic)
+    type 6 - multiplayer game (duel)
+    type 7 - contains a list of classic games played in the same session
+    '''
+    game_entries = []
+    for session in account_data:
+        if session["type"] == 1: # classic game
+            # If payload is a string, parse it into a dictionary
+            if isinstance(session["payload"], str):
+                session["payload"] = json.loads(session["payload"])
+            game_entries.append(session)
+        elif session["type"] == 7: # set of games
+            if "payload" in session:
+                game_payloads = json.loads(session["payload"])  # convert string to list
+                for game in game_payloads:
+                    if game["type"] == 1:
+                        game_entries.append(game)
+    
+    # extract gameTokens from game_entries
+    game_tokens = []
+    for game in game_entries:
+        if check_timestamp:
+            # TODO: stop appending once we reached previously loaded games
+            continue
+        game_tokens.append(game["payload"]["gameToken"])
 
-    game_payloads = [entry["payload"] for entry in session_payloads_json if "payload" in entry]
-    game_tokens = [entry["gameToken"] for entry in game_payloads if "gameToken" in entry]
-    return session_payloads_json, game_tokens
+    return game_entries, game_tokens
+
 
 if __name__ == "__main__":
     load_dotenv()
@@ -44,9 +64,10 @@ if __name__ == "__main__":
 
     # parse rounds data from game data
     feed_data = scrape_feed_data(feed_data_url)
-    payloads_list, game_tokens = extract_game_tokens_list(feed_data)
-    print(game_tokens)
+    game_entries, game_tokens_list = extract_game_tokens_list(feed_data, check_timestamp=True)
 
     # write rounds data to file
-    games_list_file = open("games_list.json", 'w')
-    json.dump(payloads_list, games_list_file)
+    with open("games_list.json", 'w') as games_list_file:
+        json.dump(game_entries, games_list_file)
+    with open("games_tokens_list.json", 'w') as game_tokens_file:
+        json.dump(game_tokens_list, game_tokens_file)
