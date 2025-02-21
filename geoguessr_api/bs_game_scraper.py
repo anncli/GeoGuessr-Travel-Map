@@ -20,8 +20,8 @@ if __name__ == "__main__":
             game_data_url = url_base + game_token
 
             # parse rounds data from game data
-            game_data = scrape_game_data(game_data_url)
-            rounds_data.extend(game_data["rounds"])
+            game_data = scrape_game_data(game_data_url)["rounds"]
+            rounds_data.extend(game_data)
 
     # write rounds data to file
     with open("game_rounds.json", 'w') as game_rounds_file:
