@@ -20,5 +20,5 @@ if __name__ == "__main__":
     rounds_data = game_data["rounds"]
 
     # write rounds data to file
-    game_rounds_file = open("game_rounds.json", 'w')
-    json.dump(rounds_data, game_rounds_file)
+    with open("game_rounds.json", 'w') as game_rounds_file:
+        json.dump(rounds_data, game_rounds_file)
