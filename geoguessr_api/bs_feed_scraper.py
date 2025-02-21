@@ -64,10 +64,10 @@ if __name__ == "__main__":
 
     # parse rounds data from game data
     feed_data = scrape_feed_data(feed_data_url)
-    game_entries, game_tokens_list = extract_game_tokens_list(feed_data, check_timestamp=True)
+    game_entries, game_tokens_list = extract_game_tokens_list(feed_data, check_timestamp=False)
 
     # write rounds data to file
     with open("games_list.json", 'w') as games_list_file:
         json.dump(game_entries, games_list_file)
-    with open("games_tokens_list.json", 'w') as game_tokens_file:
+    with open("game_tokens_list.json", 'w') as game_tokens_file:
         json.dump(game_tokens_list, game_tokens_file)
