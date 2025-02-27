@@ -21,6 +21,7 @@ if __name__ == "__main__":
 
             # parse rounds data from game data
             game_data = scrape_game_data(game_data_url)["rounds"]
+            
             rounds_data.extend(game_data)
 
     # write rounds data to file
