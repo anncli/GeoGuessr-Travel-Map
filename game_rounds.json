@@ -7,7 +7,8 @@
         "pitch": 1.0017660856246948,
         "zoom": 0,
         "streakLocationCode": "qa",
-        "startTime": "2025-02-18T11:55:51.5000000+00:00"
+        "startTime": "2025-02-18T11:55:51.5000000+00:00",
+        "city": "Khawzan, Qatar"
     },
     {
         "lat": 39.82068558928725,
@@ -17,7 +18,8 @@
         "pitch": -0.4768546223640442,
         "zoom": 0,
         "streakLocationCode": "pt",
-        "startTime": "2025-02-18T11:56:10.6200000+00:00"
+        "startTime": "2025-02-18T11:56:10.6200000+00:00",
+        "city": "Castelo Branco, Portugal"
     },
     {
         "lat": 52.51045072606293,
@@ -27,7 +29,8 @@
         "pitch": 0.900274395942688,
         "zoom": 0,
         "streakLocationCode": "ie",
-        "startTime": "2025-02-18T11:56:57.4940000+00:00"
+        "startTime": "2025-02-18T11:56:57.4940000+00:00",
+        "city": "Mullinahone, County Tipperary, Ireland"
     },
     {
         "lat": 38.35050324674346,
@@ -37,7 +40,8 @@
         "pitch": -0.6158369779586792,
         "zoom": 0,
         "streakLocationCode": "us",
-        "startTime": "2025-02-18T11:57:31.0130000+00:00"
+        "startTime": "2025-02-18T11:57:31.0130000+00:00",
+        "city": "Arlington, CO, USA"
     },
     {
         "lat": -21.2978964139353,
@@ -47,7 +51,8 @@
         "pitch": -0.21630644798278809,
         "zoom": 0,
         "streakLocationCode": "bw",
-        "startTime": "2025-02-18T11:57:40.4580000+00:00"
+        "startTime": "2025-02-18T11:57:40.4580000+00:00",
+        "city": "Orapa, Botswana"
     },
     {
         "lat": -25.900310941961948,
@@ -57,7 +62,8 @@
         "pitch": 1.5960685014724731,
         "zoom": 0,
         "streakLocationCode": "ar",
-        "startTime": "2025-02-18T10:58:00.8350000+00:00"
+        "startTime": "2025-02-18T10:58:00.8350000+00:00",
+        "city": "Lechuza, Salta, Argentina"
     },
     {
         "lat": 6.060083161406312,
@@ -67,7 +73,8 @@
         "pitch": 1.9550904035568237,
         "zoom": 0,
         "streakLocationCode": "gh",
-        "startTime": "2025-02-18T10:58:29.1690000+00:00"
+        "startTime": "2025-02-18T10:58:29.1690000+00:00",
+        "city": "New Edubiase, Ghana"
     },
     {
         "lat": 52.861783577544,
@@ -77,7 +84,8 @@
         "pitch": -2.0226738452911377,
         "zoom": 0,
         "streakLocationCode": "gb",
-        "startTime": "2025-02-18T10:59:13.4400000+00:00"
+        "startTime": "2025-02-18T10:59:13.4400000+00:00",
+        "city": "Harlech, UK"
     },
     {
         "lat": 45.45522421386272,
@@ -87,7 +95,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "rs",
-        "startTime": "2025-02-18T11:00:10.7230000+00:00"
+        "startTime": "2025-02-18T11:00:10.7230000+00:00",
+        "city": "Sirig, Serbia"
     },
     {
         "lat": 55.75134232298016,
@@ -97,7 +106,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "ru",
-        "startTime": "2025-02-18T11:01:13.2990000+00:00"
+        "startTime": "2025-02-18T11:01:13.2990000+00:00",
+        "city": "Pospelovo, Republic of Tatarstan, Russia"
     },
     {
         "lat": 10.462185426102051,
@@ -107,7 +117,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "co",
-        "startTime": "2024-11-26T03:10:15.6630000+00:00"
+        "startTime": "2024-11-26T03:10:15.6630000+00:00",
+        "city": "Pivijay, Magdalena, Colombia"
     },
     {
         "lat": 6.533519633291998,
@@ -117,7 +128,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "co",
-        "startTime": "2024-11-26T03:10:26.2880000+00:00"
+        "startTime": "2024-11-26T03:10:26.2880000+00:00",
+        "city": "Santo Domingo, Antioquia, Colombia"
     },
     {
         "lat": 48.22034949878207,
@@ -127,7 +139,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "sk",
-        "startTime": "2024-11-26T03:10:37.4360000+00:00"
+        "startTime": "2024-11-26T03:10:37.4360000+00:00",
+        "city": "Rykyn\u010dice, Slovakia"
     },
     {
         "lat": -19.493619555919295,
@@ -137,7 +150,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "br",
-        "startTime": "2024-11-26T03:10:49.8830000+00:00"
+        "startTime": "2024-11-26T03:10:49.8830000+00:00",
+        "city": "Rio Quartel, Linhares - ES, Brazil"
     },
     {
         "lat": 49.78664588164973,
@@ -147,7 +161,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "cz",
-        "startTime": "2024-11-26T03:11:03.8260000+00:00"
+        "startTime": "2024-11-26T03:11:03.8260000+00:00",
+        "city": "Bor, Czechia"
     },
     {
         "lat": 16.814440950690155,
@@ -157,7 +172,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "th",
-        "startTime": "2024-11-26T03:08:46.0760000+00:00"
+        "startTime": "2024-11-26T03:08:46.0760000+00:00",
+        "city": "Ban Namphu, Khiri Mat District, Sukhothai, Thailand"
     },
     {
         "lat": 54.44049717308116,
@@ -167,7 +183,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "ca",
-        "startTime": "2024-11-26T03:08:56.1210000+00:00"
+        "startTime": "2024-11-26T03:08:56.1210000+00:00",
+        "city": ""
     },
     {
         "lat": -1.3767761900258155,
@@ -177,7 +194,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "ke",
-        "startTime": "2024-11-26T03:09:21.9670000+00:00"
+        "startTime": "2024-11-26T03:09:21.9670000+00:00",
+        "city": "Nyumbani, Kenya"
     },
     {
         "lat": 54.78563250010991,
@@ -187,7 +205,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "lt",
-        "startTime": "2024-11-26T03:09:29.8700000+00:00"
+        "startTime": "2024-11-26T03:09:29.8700000+00:00",
+        "city": "Sena\u017ei\u0161k\u0117, Kazl\u0173 R\u016bda Municipality, Lithuania"
     },
     {
         "lat": -20.431752468992514,
@@ -197,7 +216,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "br",
-        "startTime": "2024-11-26T03:09:44.0180000+00:00"
+        "startTime": "2024-11-26T03:09:44.0180000+00:00",
+        "city": "\u00c1gua Clara, MS, Brazil"
     },
     {
         "lat": 48.21321978821381,
@@ -207,7 +227,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "at",
-        "startTime": "2024-11-26T03:06:54.1540000+00:00"
+        "startTime": "2024-11-26T03:06:54.1540000+00:00",
+        "city": "Hofamt Priel, Austria"
     },
     {
         "lat": 46.9669664050172,
@@ -217,7 +238,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "at",
-        "startTime": "2024-11-26T03:07:08.3500000+00:00"
+        "startTime": "2024-11-26T03:07:08.3500000+00:00",
+        "city": "Arnig, Austria"
     },
     {
         "lat": 58.49171207681096,
@@ -227,7 +249,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "ru",
-        "startTime": "2024-11-26T03:07:21.1030000+00:00"
+        "startTime": "2024-11-26T03:07:21.1030000+00:00",
+        "city": "Dubrovo (Ustiutskoe S/P), Novgorod Oblast, Russia"
     },
     {
         "lat": -3.344182927489678,
@@ -237,7 +260,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "br",
-        "startTime": "2024-11-26T03:07:49.6040000+00:00"
+        "startTime": "2024-11-26T03:07:49.6040000+00:00",
+        "city": "Grande Esperan\u00e7a, Brasil Novo - PA, Brazil"
     },
     {
         "lat": 38.75930407313191,
@@ -247,7 +271,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "tr",
-        "startTime": "2024-11-26T03:08:17.5750000+00:00"
+        "startTime": "2024-11-26T03:08:17.5750000+00:00",
+        "city": "\u0130\u00e7bo\u011faz/Korkut/Mu\u015f, T\u00fcrkiye"
     },
     {
         "lat": 0.08486249225714923,
@@ -257,7 +282,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "ug",
-        "startTime": "2024-11-26T03:05:36.1590000+00:00"
+        "startTime": "2024-11-26T03:05:36.1590000+00:00",
+        "city": "Kagolomolo, Uganda"
     },
     {
         "lat": 3.723153773315909,
@@ -267,7 +293,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "ke",
-        "startTime": "2024-11-26T03:05:49.6970000+00:00"
+        "startTime": "2024-11-26T03:05:49.6970000+00:00",
+        "city": "Kanukurudio, Kenya"
     },
     {
         "lat": 51.35980945635316,
@@ -277,7 +304,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "pl",
-        "startTime": "2024-11-26T03:05:58.6030000+00:00"
+        "startTime": "2024-11-26T03:05:58.6030000+00:00",
+        "city": "Szczercowska Wie\u015b, Poland"
     },
     {
         "lat": 15.625633873146615,
@@ -287,7 +315,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "gt",
-        "startTime": "2024-11-26T03:06:21.5780000+00:00"
+        "startTime": "2024-11-26T03:06:21.5780000+00:00",
+        "city": "Puerto Barrios, Guatemala"
     },
     {
         "lat": 55.09623114132296,
@@ -297,7 +326,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "dk",
-        "startTime": "2024-11-26T03:06:37.3920000+00:00"
+        "startTime": "2024-11-26T03:06:37.3920000+00:00",
+        "city": "Nex\u00f8, Denmark"
     },
     {
         "lat": 62.8635508129982,
@@ -307,7 +337,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "fi",
-        "startTime": "2024-11-23T01:34:17.9500000+00:00"
+        "startTime": "2024-11-23T01:34:17.9500000+00:00",
+        "city": ""
     },
     {
         "lat": 40.36070126672847,
@@ -317,7 +348,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "us",
-        "startTime": "2024-11-23T01:34:50.8720000+00:00"
+        "startTime": "2024-11-23T01:34:50.8720000+00:00",
+        "city": "Platina, CA, USA"
     },
     {
         "lat": 48.60817992823886,
@@ -327,7 +359,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "mn",
-        "startTime": "2024-11-23T01:35:09.5960000+00:00"
+        "startTime": "2024-11-23T01:35:09.5960000+00:00",
+        "city": ""
     },
     {
         "lat": 54.672790628452816,
@@ -337,7 +370,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "ca",
-        "startTime": "2024-11-23T01:35:17.5920000+00:00"
+        "startTime": "2024-11-23T01:35:17.5920000+00:00",
+        "city": ""
     },
     {
         "lat": -44.514562268749096,
@@ -347,7 +381,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "nz",
-        "startTime": "2024-11-23T01:35:32.5620000+00:00"
+        "startTime": "2024-11-23T01:35:32.5620000+00:00",
+        "city": "Omarama, Canterbury, New Zealand"
     },
     {
         "lat": 48.99708663378626,
@@ -357,7 +392,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "sk",
-        "startTime": "2024-11-21T02:18:49.0280000+00:00"
+        "startTime": "2024-11-21T02:18:49.0280000+00:00",
+        "city": "Ru\u017eomberok, Slovakia"
     },
     {
         "lat": -1.3767761900258155,
@@ -367,7 +403,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "ke",
-        "startTime": "2024-11-21T02:19:11.9060000+00:00"
+        "startTime": "2024-11-21T02:19:11.9060000+00:00",
+        "city": "Nyumbani, Kenya"
     },
     {
         "lat": -21.12277872548614,
@@ -377,7 +414,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "fr",
-        "startTime": "2024-11-21T02:19:23.2050000+00:00"
+        "startTime": "2024-11-21T02:19:23.2050000+00:00",
+        "city": "Cilaos, R\u00e9union"
     },
     {
         "lat": -21.35322937013632,
@@ -387,7 +425,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "fr",
-        "startTime": "2024-11-21T02:19:53.8650000+00:00"
+        "startTime": "2024-11-21T02:19:53.8650000+00:00",
+        "city": "Saint Pierre, R\u00e9union"
     },
     {
         "lat": -21.08025549318736,
@@ -397,7 +436,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "fr",
-        "startTime": "2024-11-21T02:20:13.6750000+00:00"
+        "startTime": "2024-11-21T02:20:13.6750000+00:00",
+        "city": "Saint-Paul, R\u00e9union"
     },
     {
         "lat": -30.595855654885064,
@@ -407,7 +447,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "cl",
-        "startTime": "2024-11-21T02:15:11.0630000+00:00"
+        "startTime": "2024-11-21T02:15:11.0630000+00:00",
+        "city": "Ovalle, Chile"
     },
     {
         "lat": 49.89634748031611,
@@ -417,7 +458,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "cz",
-        "startTime": "2024-11-21T02:15:31.1370000+00:00"
+        "startTime": "2024-11-21T02:15:31.1370000+00:00",
+        "city": "Jakartovice, Czechia"
     },
     {
         "lat": 40.162245180217035,
@@ -427,7 +469,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "us",
-        "startTime": "2024-11-21T02:16:10.3650000+00:00"
+        "startTime": "2024-11-21T02:16:10.3650000+00:00",
+        "city": "Beaver City, NE, USA"
     },
     {
         "lat": 4.435569968958913,
@@ -437,7 +480,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "co",
-        "startTime": "2024-11-21T02:16:27.5860000+00:00"
+        "startTime": "2024-11-21T02:16:27.5860000+00:00",
+        "city": "Ibague, Tolima, Colombia"
     },
     {
         "lat": 46.132037833662295,
@@ -447,7 +491,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "ca",
-        "startTime": "2024-11-21T02:16:52.1670000+00:00"
+        "startTime": "2024-11-21T02:16:52.1670000+00:00",
+        "city": "Laurentian Hills, ON, Canada"
     },
     {
         "lat": 0.3466088104410476,
@@ -457,7 +502,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "ug",
-        "startTime": "2024-11-21T02:13:10.0330000+00:00"
+        "startTime": "2024-11-21T02:13:10.0330000+00:00",
+        "city": "Buloba, Uganda"
     },
     {
         "lat": 18.52348382680951,
@@ -467,7 +513,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "do",
-        "startTime": "2024-11-21T02:13:25.8210000+00:00"
+        "startTime": "2024-11-21T02:13:25.8210000+00:00",
+        "city": "Santo Domingo Este, Dominican Republic"
     },
     {
         "lat": 50.80716865446957,
@@ -477,7 +524,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "de",
-        "startTime": "2024-11-21T02:14:04.8870000+00:00"
+        "startTime": "2024-11-21T02:14:04.8870000+00:00",
+        "city": "Wei\u00dfbach, Germany"
     },
     {
         "lat": 7.182946801771873,
@@ -487,7 +535,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "co",
-        "startTime": "2024-11-21T02:14:41.8010000+00:00"
+        "startTime": "2024-11-21T02:14:41.8010000+00:00",
+        "city": "Dabeiba, Antioquia, Colombia"
     },
     {
         "lat": 45.01564007398452,
@@ -497,7 +546,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "ca",
-        "startTime": "2024-11-21T02:14:51.2520000+00:00"
+        "startTime": "2024-11-21T02:14:51.2520000+00:00",
+        "city": "Brooklyn, NS, Canada"
     },
     {
         "lat": 51.26814177459096,
@@ -507,7 +557,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "ua",
-        "startTime": "2024-11-20T19:37:58.7950000+00:00"
+        "startTime": "2024-11-20T19:37:58.7950000+00:00",
+        "city": "Krasne, Chernihiv Oblast, Ukraine"
     },
     {
         "lat": 42.51846713212174,
@@ -517,7 +568,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "kg",
-        "startTime": "2024-11-20T19:38:27.8050000+00:00"
+        "startTime": "2024-11-20T19:38:27.8050000+00:00",
+        "city": "Talas, Kyrgyzstan"
     },
     {
         "lat": 42.596969835912866,
@@ -527,7 +579,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "es",
-        "startTime": "2024-11-20T19:38:41.5680000+00:00"
+        "startTime": "2024-11-20T19:38:41.5680000+00:00",
+        "city": "Oteiza, Spain"
     },
     {
         "lat": 51.63416288985417,
@@ -537,7 +590,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "nl",
-        "startTime": "2024-11-20T19:38:52.0450000+00:00"
+        "startTime": "2024-11-20T19:38:52.0450000+00:00",
+        "city": "Dinteloord, Netherlands"
     },
     {
         "lat": 3.878060072539177,
@@ -547,7 +601,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "co",
-        "startTime": "2024-11-20T19:39:02.7690000+00:00"
+        "startTime": "2024-11-20T19:39:02.7690000+00:00",
+        "city": ""
     },
     {
         "lat": 19.01091766357422,
@@ -557,7 +612,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "th",
-        "startTime": "2024-11-20T19:37:20.5130000+00:00"
+        "startTime": "2024-11-20T19:37:20.5130000+00:00",
+        "city": "Pa Miang, Doi Saket District, Chiang Mai, Thailand"
     },
     {
         "lat": 37.878684997558594,
@@ -567,7 +623,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "tr",
-        "startTime": "2024-11-20T19:37:07.0800000+00:00"
+        "startTime": "2024-11-20T19:37:07.0800000+00:00",
+        "city": "E\u011firdir/Isparta, T\u00fcrkiye"
     },
     {
         "lat": 37.08406066894531,
@@ -577,7 +634,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "pt",
-        "startTime": "2024-11-20T19:36:37.6480000+00:00"
+        "startTime": "2024-11-20T19:36:37.6480000+00:00",
+        "city": "Moncarapacho, Portugal"
     },
     {
         "lat": -19.125621795654297,
@@ -587,7 +645,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "bo",
-        "startTime": "2024-11-20T19:36:44.9620000+00:00"
+        "startTime": "2024-11-20T19:36:44.9620000+00:00",
+        "city": "Calacota, Bolivia"
     },
     {
         "lat": 11.54842758178711,
@@ -597,7 +656,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "kh",
-        "startTime": "2024-11-20T19:36:18.9780000+00:00"
+        "startTime": "2024-11-20T19:36:18.9780000+00:00",
+        "city": "Prohear, Cambodia"
     },
     {
         "lat": -31.89750862121582,
@@ -607,7 +667,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "ar",
-        "startTime": "2024-11-20T04:23:12.4820000+00:00"
+        "startTime": "2024-11-20T04:23:12.4820000+00:00",
+        "city": "El Calden, San Luis, Argentina"
     },
     {
         "lat": 55.40150833129883,
@@ -617,7 +678,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "lt",
-        "startTime": "2024-11-20T04:22:50.8380000+00:00"
+        "startTime": "2024-11-20T04:22:50.8380000+00:00",
+        "city": "Kalnaber\u017e\u0117, K\u0117daini\u0173 rajono savivaldyb\u0117, Lithuania"
     },
     {
         "lat": 64.86105346679688,
@@ -627,7 +689,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "is",
-        "startTime": "2024-11-20T04:22:11.0420000+00:00"
+        "startTime": "2024-11-20T04:22:11.0420000+00:00",
+        "city": ""
     },
     {
         "lat": 32.855770111083984,
@@ -637,7 +700,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "jp",
-        "startTime": "2024-11-20T04:22:25.7010000+00:00"
+        "startTime": "2024-11-20T04:22:25.7010000+00:00",
+        "city": "Tosashimizu, Kochi, Japan"
     },
     {
         "lat": 45.672977447509766,
@@ -647,7 +711,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "rs",
-        "startTime": "2024-11-20T04:21:32.5220000+00:00"
+        "startTime": "2024-11-20T04:21:32.5220000+00:00",
+        "city": "Stapar, Serbia"
     },
     {
         "lat": 55.58600616455078,
@@ -657,7 +722,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "lt",
-        "startTime": "2024-11-20T04:21:23.2570000+00:00"
+        "startTime": "2024-11-20T04:21:23.2570000+00:00",
+        "city": "Daugailiai, Utena District Municipality, Lithuania"
     },
     {
         "lat": 48.769107818603516,
@@ -667,7 +733,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "ru",
-        "startTime": "2024-11-20T04:21:11.5650000+00:00"
+        "startTime": "2024-11-20T04:21:11.5650000+00:00",
+        "city": "Volgograd, Volgograd Oblast, Russia"
     },
     {
         "lat": -21.179462432861328,
@@ -677,7 +744,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "bw",
-        "startTime": "2024-11-20T04:20:59.7250000+00:00"
+        "startTime": "2024-11-20T04:20:59.7250000+00:00",
+        "city": ""
     },
     {
         "lat": 41.50682067871094,
@@ -687,7 +755,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "bg",
-        "startTime": "2024-11-20T04:20:45.3280000+00:00"
+        "startTime": "2024-11-20T04:20:45.3280000+00:00",
+        "city": "Momchilgrad, Bulgaria"
     },
     {
         "lat": -0.006789289880543947,
@@ -697,7 +766,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "ke",
-        "startTime": "2024-11-20T04:20:02.6320000+00:00"
+        "startTime": "2024-11-20T04:20:02.6320000+00:00",
+        "city": "Majengo, Kenya"
     },
     {
         "lat": -28.735746383666992,
@@ -707,7 +777,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "za",
-        "startTime": "2024-11-20T04:20:07.6520000+00:00"
+        "startTime": "2024-11-20T04:20:07.6520000+00:00",
+        "city": "Winterton, South Africa"
     },
     {
         "lat": 42.39145278930664,
@@ -717,7 +788,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "me",
-        "startTime": "2024-11-20T04:20:28.5510000+00:00"
+        "startTime": "2024-11-20T04:20:28.5510000+00:00",
+        "city": "Gurec, Montenegro"
     },
     {
         "lat": 15.36407470703125,
@@ -727,7 +799,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "mx",
-        "startTime": "2024-11-20T04:19:47.6730000+00:00"
+        "startTime": "2024-11-20T04:19:47.6730000+00:00",
+        "city": "El Encuentro, Chis., Mexico"
     },
     {
         "lat": 17.006035683567262,
@@ -737,7 +810,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "gt",
-        "startTime": "2024-11-20T04:17:25.6040000+00:00"
+        "startTime": "2024-11-20T04:17:25.6040000+00:00",
+        "city": "Buena Vista, Guatemala"
     },
     {
         "lat": 15.589121530475865,
@@ -747,7 +821,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "th",
-        "startTime": "2024-11-20T04:17:41.4720000+00:00"
+        "startTime": "2024-11-20T04:17:41.4720000+00:00",
+        "city": "Bo Rang, Wichian Buri District, Phetchabun, Thailand"
     },
     {
         "lat": 0.3061055057439003,
@@ -757,7 +832,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "ug",
-        "startTime": "2024-11-20T04:17:59.8900000+00:00"
+        "startTime": "2024-11-20T04:17:59.8900000+00:00",
+        "city": "Kampala, Uganda"
     },
     {
         "lat": 41.23445780082012,
@@ -767,7 +843,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "kg",
-        "startTime": "2024-11-20T04:18:15.1140000+00:00"
+        "startTime": "2024-11-20T04:18:15.1140000+00:00",
+        "city": "Kara-Oy, Kyrgyzstan"
     },
     {
         "lat": -9.913828006572162,
@@ -777,7 +854,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "br",
-        "startTime": "2024-11-20T04:18:57.8280000+00:00"
+        "startTime": "2024-11-20T04:18:57.8280000+00:00",
+        "city": "Padre C\u00edcero, Senador Guiomard - AC, Brazil"
     },
     {
         "lat": 48.00913511738019,
@@ -787,7 +865,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "at",
-        "startTime": "2024-11-20T04:15:23.6460000+00:00"
+        "startTime": "2024-11-20T04:15:23.6460000+00:00",
+        "city": "Deutsch Jahrndorf, Austria"
     },
     {
         "lat": 4.134287064469769,
@@ -797,7 +876,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "co",
-        "startTime": "2024-11-20T04:15:33.0950000+00:00"
+        "startTime": "2024-11-20T04:15:33.0950000+00:00",
+        "city": "Villavicencio, Meta, Colombia"
     },
     {
         "lat": 49.46219886601821,
@@ -807,7 +887,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "cz",
-        "startTime": "2024-11-20T04:16:06.4030000+00:00"
+        "startTime": "2024-11-20T04:16:06.4030000+00:00",
+        "city": "St\u00e1j-Jamn\u00e9 u Jihlavy, Czechia"
     },
     {
         "lat": -38.96465572333108,
@@ -817,7 +898,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "nz",
-        "startTime": "2024-11-20T04:16:27.4750000+00:00"
+        "startTime": "2024-11-20T04:16:27.4750000+00:00",
+        "city": "Waipunga, Hawke's Bay, New Zealand"
     },
     {
         "lat": -45.98114926255755,
@@ -827,7 +909,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "nz",
-        "startTime": "2024-11-20T04:17:12.4810000+00:00"
+        "startTime": "2024-11-20T04:17:12.4810000+00:00",
+        "city": "Benmore, Southland, New Zealand"
     },
     {
         "lat": 6.153577164853113,
@@ -837,7 +920,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "co",
-        "startTime": "2024-11-20T04:14:02.1810000+00:00"
+        "startTime": "2024-11-20T04:14:02.1810000+00:00",
+        "city": ""
     },
     {
         "lat": 38.73942703218282,
@@ -847,7 +931,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "pt",
-        "startTime": "2024-11-20T04:14:10.2810000+00:00"
+        "startTime": "2024-11-20T04:14:10.2810000+00:00",
+        "city": "Lisbon, Portugal"
     },
     {
         "lat": -20.90305488501084,
@@ -857,7 +942,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "fr",
-        "startTime": "2024-11-20T04:14:23.0010000+00:00"
+        "startTime": "2024-11-20T04:14:23.0010000+00:00",
+        "city": "Sainte-Marie, R\u00e9union"
     },
     {
         "lat": 0.349871792471321,
@@ -867,7 +953,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "ug",
-        "startTime": "2024-11-20T04:14:47.4840000+00:00"
+        "startTime": "2024-11-20T04:14:47.4840000+00:00",
+        "city": "Kampala, Uganda"
     },
     {
         "lat": -36.81244938236608,
@@ -877,7 +964,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "cl",
-        "startTime": "2024-11-20T04:15:03.0040000+00:00"
+        "startTime": "2024-11-20T04:15:03.0040000+00:00",
+        "city": "Atacalco, San Ignacio, Chile"
     },
     {
         "lat": 38.91163235881071,
@@ -887,7 +975,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "es",
-        "startTime": "2024-11-20T04:12:03.8670000+00:00"
+        "startTime": "2024-11-20T04:12:03.8670000+00:00",
+        "city": "Aben\u00f3jar, Spain"
     },
     {
         "lat": 65.93997667818533,
@@ -897,7 +986,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "is",
-        "startTime": "2024-11-20T04:12:44.8210000+00:00"
+        "startTime": "2024-11-20T04:12:44.8210000+00:00",
+        "city": ""
     },
     {
         "lat": 44.80377218209846,
@@ -907,7 +997,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "us",
-        "startTime": "2024-11-20T04:13:06.8320000+00:00"
+        "startTime": "2024-11-20T04:13:06.8320000+00:00",
+        "city": "Kidd, MT, USA"
     },
     {
         "lat": 0.08486249225714923,
@@ -917,7 +1008,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "ug",
-        "startTime": "2024-11-20T04:13:14.7340000+00:00"
+        "startTime": "2024-11-20T04:13:14.7340000+00:00",
+        "city": "Kagolomolo, Uganda"
     },
     {
         "lat": 47.17121480285814,
@@ -927,7 +1019,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "at",
-        "startTime": "2024-11-20T04:13:30.9290000+00:00"
+        "startTime": "2024-11-20T04:13:30.9290000+00:00",
+        "city": "Gro\u00dflobming, Austria"
     },
     {
         "lat": -25.245327318864355,
@@ -937,7 +1030,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "au",
-        "startTime": "2024-11-20T04:10:26.3760000+00:00"
+        "startTime": "2024-11-20T04:10:26.3760000+00:00",
+        "city": ""
     },
     {
         "lat": 52.58744982003192,
@@ -947,7 +1041,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "gb",
-        "startTime": "2024-11-20T04:10:55.6120000+00:00"
+        "startTime": "2024-11-20T04:10:55.6120000+00:00",
+        "city": "Great Yarmouth, UK"
     },
     {
         "lat": -28.33941495536677,
@@ -957,7 +1052,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "au",
-        "startTime": "2024-11-20T04:11:21.1010000+00:00"
+        "startTime": "2024-11-20T04:11:21.1010000+00:00",
+        "city": ""
     },
     {
         "lat": 36.66452169937285,
@@ -967,7 +1063,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "us",
-        "startTime": "2024-11-20T04:11:37.3710000+00:00"
+        "startTime": "2024-11-20T04:11:37.3710000+00:00",
+        "city": "Oak Grove, KY, USA"
     },
     {
         "lat": 7.048117779654288,
@@ -977,7 +1074,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "th",
-        "startTime": "2024-11-20T04:11:47.6350000+00:00"
+        "startTime": "2024-11-20T04:11:47.6350000+00:00",
+        "city": "Kamphaeng Phet, Rattaphum District, Songkhla, Thailand"
     },
     {
         "lat": 49.43177762853277,
@@ -987,7 +1085,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "mn",
-        "startTime": "2024-11-20T04:08:43.8170000+00:00"
+        "startTime": "2024-11-20T04:08:43.8170000+00:00",
+        "city": "Tsengel, Mongolia"
     },
     {
         "lat": 52.20472274697147,
@@ -997,7 +1096,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "gb",
-        "startTime": "2024-11-20T04:08:52.4700000+00:00"
+        "startTime": "2024-11-20T04:08:52.4700000+00:00",
+        "city": "Kington, UK"
     },
     {
         "lat": -21.044580861066105,
@@ -1007,7 +1107,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "fr",
-        "startTime": "2024-11-20T04:09:05.5030000+00:00"
+        "startTime": "2024-11-20T04:09:05.5030000+00:00",
+        "city": "Saint-Paul, R\u00e9union"
     },
     {
         "lat": 7.567105450539421,
@@ -1017,7 +1118,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "gh",
-        "startTime": "2024-11-20T04:09:41.8510000+00:00"
+        "startTime": "2024-11-20T04:09:41.8510000+00:00",
+        "city": "Tromeso, Ghana"
     },
     {
         "lat": 39.93349556887224,
@@ -1027,7 +1129,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "es",
-        "startTime": "2024-11-20T04:10:01.1480000+00:00"
+        "startTime": "2024-11-20T04:10:01.1480000+00:00",
+        "city": "Fuentes, Spain"
     },
     {
         "lat": 45.945916002630014,
@@ -1037,7 +1140,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "ru",
-        "startTime": "2024-11-20T04:05:56.1370000+00:00"
+        "startTime": "2024-11-20T04:05:56.1370000+00:00",
+        "city": ""
     },
     {
         "lat": 16.47805950563259,
@@ -1047,7 +1151,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "gt",
-        "startTime": "2024-11-20T04:06:36.3930000+00:00"
+        "startTime": "2024-11-20T04:06:36.3930000+00:00",
+        "city": "Boca del Monte, Guatemala"
     },
     {
         "lat": 18.72525551187072,
@@ -1057,7 +1162,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "th",
-        "startTime": "2024-11-20T04:07:13.6050000+00:00"
+        "startTime": "2024-11-20T04:07:13.6050000+00:00",
+        "city": "Yap Hua Na, Wiang Sa District, Nan, Thailand"
     },
     {
         "lat": 40.264597441181174,
@@ -1067,7 +1173,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "tr",
-        "startTime": "2024-11-20T04:07:36.5340000+00:00"
+        "startTime": "2024-11-20T04:07:36.5340000+00:00",
+        "city": "Tortum/Erzurum, T\u00fcrkiye"
     },
     {
         "lat": 48.27951103455116,
@@ -1077,7 +1184,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "ua",
-        "startTime": "2024-11-20T04:08:13.0560000+00:00"
+        "startTime": "2024-11-20T04:08:13.0560000+00:00",
+        "city": "Verblyuzhka, Kirovohrad Oblast, Ukraine"
     },
     {
         "lat": 35.93927120729949,
@@ -1087,7 +1195,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "kr",
-        "startTime": "2024-11-20T04:03:40.4860000+00:00"
+        "startTime": "2024-11-20T04:03:40.4860000+00:00",
+        "city": "Seongju-gun, Gyeongsangbuk-do, South Korea"
     },
     {
         "lat": 55.38200686883212,
@@ -1097,7 +1206,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "dk",
-        "startTime": "2024-11-20T04:03:50.6140000+00:00"
+        "startTime": "2024-11-20T04:03:50.6140000+00:00",
+        "city": "Ribe, Denmark"
     },
     {
         "lat": 52.9165822827485,
@@ -1107,7 +1217,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "nl",
-        "startTime": "2024-11-20T04:04:20.6150000+00:00"
+        "startTime": "2024-11-20T04:04:20.6150000+00:00",
+        "city": "Schoonloo, Netherlands"
     },
     {
         "lat": 53.602203268929166,
@@ -1117,7 +1228,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "pl",
-        "startTime": "2024-11-20T04:04:59.5730000+00:00"
+        "startTime": "2024-11-20T04:04:59.5730000+00:00",
+        "city": "Ba\u0142cyny, Poland"
     },
     {
         "lat": 42.32458610658541,
@@ -1127,7 +1239,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "us",
-        "startTime": "2024-11-20T04:05:24.5350000+00:00"
+        "startTime": "2024-11-20T04:05:24.5350000+00:00",
+        "city": ""
     },
     {
         "lat": -2.0122479410777827,
@@ -1137,7 +1250,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "ke",
-        "startTime": "2024-11-20T04:01:13.1080000+00:00"
+        "startTime": "2024-11-20T04:01:13.1080000+00:00",
+        "city": "Bisil, Kenya"
     },
     {
         "lat": 0.31138472074683315,
@@ -1147,7 +1261,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "ug",
-        "startTime": "2024-11-20T04:01:29.1310000+00:00"
+        "startTime": "2024-11-20T04:01:29.1310000+00:00",
+        "city": "Kampala, Uganda"
     },
     {
         "lat": -36.078136080162146,
@@ -1157,7 +1272,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "cl",
-        "startTime": "2024-11-20T04:02:17.9910000+00:00"
+        "startTime": "2024-11-20T04:02:17.9910000+00:00",
+        "city": "Unicaven, Parral, Chile"
     },
     {
         "lat": 45.42979887620632,
@@ -1167,7 +1283,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "mn",
-        "startTime": "2024-11-20T04:03:07.4200000+00:00"
+        "startTime": "2024-11-20T04:03:07.4200000+00:00",
+        "city": "Horin Hiid, Mongolia"
     },
     {
         "lat": 52.2234211788502,
@@ -1177,7 +1294,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "gb",
-        "startTime": "2024-11-20T04:03:21.3870000+00:00"
+        "startTime": "2024-11-20T04:03:21.3870000+00:00",
+        "city": "Tregaron, UK"
     },
     {
         "lat": 37.836195775335376,
@@ -1187,7 +1305,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "us",
-        "startTime": "2024-11-20T03:59:04.1110000+00:00"
+        "startTime": "2024-11-20T03:59:04.1110000+00:00",
+        "city": "Hadensville, VA, USA"
     },
     {
         "lat": 34.81877038963349,
@@ -1197,7 +1316,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "kr",
-        "startTime": "2024-11-20T03:59:25.7170000+00:00"
+        "startTime": "2024-11-20T03:59:25.7170000+00:00",
+        "city": ""
     },
     {
         "lat": 16.63104431353138,
@@ -1207,7 +1327,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "th",
-        "startTime": "2024-11-20T03:59:40.4400000+00:00"
+        "startTime": "2024-11-20T03:59:40.4400000+00:00",
+        "city": "Na Ko, Kuchinarai District, Kalasin, Thailand"
     },
     {
         "lat": 50.61544136284142,
@@ -1217,7 +1338,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "cz",
-        "startTime": "2024-11-20T04:00:25.5420000+00:00"
+        "startTime": "2024-11-20T04:00:25.5420000+00:00",
+        "city": "Ku\u0159\u00edvody, Czechia"
     },
     {
         "lat": 39.08978855136689,
@@ -1227,7 +1349,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "tr",
-        "startTime": "2024-11-20T04:00:50.4650000+00:00"
+        "startTime": "2024-11-20T04:00:50.4650000+00:00",
+        "city": "Gedikler/\u00c7emi\u015fgezek/Tunceli, T\u00fcrkiye"
     },
     {
         "lat": 12.322485361568145,
@@ -1237,7 +1360,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "ng",
-        "startTime": "2024-11-20T03:56:40.8650000+00:00"
+        "startTime": "2024-11-20T03:56:40.8650000+00:00",
+        "city": "Gangiji, Nigeria"
     },
     {
         "lat": 49.43177762853277,
@@ -1247,7 +1371,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "mn",
-        "startTime": "2024-11-20T03:56:59.4680000+00:00"
+        "startTime": "2024-11-20T03:56:59.4680000+00:00",
+        "city": "Tsengel, Mongolia"
     },
     {
         "lat": 49.10311032568728,
@@ -1257,7 +1382,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "cz",
-        "startTime": "2024-11-20T03:57:24.8050000+00:00"
+        "startTime": "2024-11-20T03:57:24.8050000+00:00",
+        "city": "Buchlovice, Czechia"
     },
     {
         "lat": 5.112280134056557,
@@ -1267,7 +1393,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "co",
-        "startTime": "2024-11-20T03:58:00.7320000+00:00"
+        "startTime": "2024-11-20T03:58:00.7320000+00:00",
+        "city": "Yopal, Casanare, Colombia"
     },
     {
         "lat": 48.520476563666634,
@@ -1277,7 +1404,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "sk",
-        "startTime": "2024-11-20T03:58:35.7300000+00:00"
+        "startTime": "2024-11-20T03:58:35.7300000+00:00",
+        "city": "Studienka, Slovakia"
     },
     {
         "lat": 51.67849414350239,
@@ -1287,7 +1415,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "pl",
-        "startTime": "2024-11-20T03:53:09.3450000+00:00"
+        "startTime": "2024-11-20T03:53:09.3450000+00:00",
+        "city": "Kostry, Poland"
     },
     {
         "lat": 55.74545448282265,
@@ -1297,7 +1426,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "lt",
-        "startTime": "2024-11-20T03:54:03.6640000+00:00"
+        "startTime": "2024-11-20T03:54:03.6640000+00:00",
+        "city": "Perk\u016bnai, Klaip\u0117da District Municipality, Lithuania"
     },
     {
         "lat": 46.874205066111415,
@@ -1307,7 +1437,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "ca",
-        "startTime": "2024-11-20T03:54:39.5760000+00:00"
+        "startTime": "2024-11-20T03:54:39.5760000+00:00",
+        "city": ""
     },
     {
         "lat": 38.77629460264897,
@@ -1317,7 +1448,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "pt",
-        "startTime": "2024-11-20T03:55:16.9940000+00:00"
+        "startTime": "2024-11-20T03:55:16.9940000+00:00",
+        "city": "Colares, Portugal"
     },
     {
         "lat": 65.0587414802653,
@@ -1327,7 +1459,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "fi",
-        "startTime": "2024-11-20T03:55:53.4010000+00:00"
+        "startTime": "2024-11-20T03:55:53.4010000+00:00",
+        "city": "Vattuper\u00e4, Finland"
     },
     {
         "lat": 47.64198303222656,
@@ -1337,7 +1470,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "us",
-        "startTime": "2024-11-01T22:19:44.2620000+00:00"
+        "startTime": "2024-11-01T22:19:44.2620000+00:00",
+        "city": "Redmond, WA, USA"
     },
     {
         "lat": 47.69316864013672,
@@ -1347,7 +1481,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "us",
-        "startTime": "2024-11-01T22:21:25.6220000+00:00"
+        "startTime": "2024-11-01T22:21:25.6220000+00:00",
+        "city": "Redmond, WA, USA"
     },
     {
         "lat": 47.632362365722656,
@@ -1357,7 +1492,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "us",
-        "startTime": "2024-11-01T22:22:26.2640000+00:00"
+        "startTime": "2024-11-01T22:22:26.2640000+00:00",
+        "city": "Redmond, WA, USA"
     },
     {
         "lat": 47.67063903808594,
@@ -1367,7 +1503,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "us",
-        "startTime": "2024-11-01T22:22:44.1410000+00:00"
+        "startTime": "2024-11-01T22:22:44.1410000+00:00",
+        "city": "Redmond, WA, USA"
     },
     {
         "lat": 47.63519287109375,
@@ -1377,7 +1514,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "us",
-        "startTime": "2024-11-01T22:23:01.4640000+00:00"
+        "startTime": "2024-11-01T22:23:01.4640000+00:00",
+        "city": "Redmond, WA, USA"
     },
     {
         "lat": 47.6760139465332,
@@ -1387,7 +1525,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "us",
-        "startTime": "2024-11-01T22:14:56.4470000+00:00"
+        "startTime": "2024-11-01T22:14:56.4470000+00:00",
+        "city": "Redmond, WA, USA"
     },
     {
         "lat": 47.709808349609375,
@@ -1397,7 +1536,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "us",
-        "startTime": "2024-11-01T22:16:46.2710000+00:00"
+        "startTime": "2024-11-01T22:16:46.2710000+00:00",
+        "city": "Redmond, WA, USA"
     },
     {
         "lat": 47.644229888916016,
@@ -1407,7 +1547,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "us",
-        "startTime": "2024-11-01T22:18:07.5500000+00:00"
+        "startTime": "2024-11-01T22:18:07.5500000+00:00",
+        "city": "Redmond, WA, USA"
     },
     {
         "lat": 47.68928909301758,
@@ -1417,7 +1558,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "us",
-        "startTime": "2024-11-01T22:19:11.6620000+00:00"
+        "startTime": "2024-11-01T22:19:11.6620000+00:00",
+        "city": "Redmond, WA, USA"
     },
     {
         "lat": 47.671878814697266,
@@ -1427,7 +1569,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "us",
-        "startTime": "2024-11-01T22:19:28.9910000+00:00"
+        "startTime": "2024-11-01T22:19:28.9910000+00:00",
+        "city": "Redmond, WA, USA"
     },
     {
         "lat": 47.68021774291992,
@@ -1437,7 +1580,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "us",
-        "startTime": "2024-11-01T22:07:58.9480000+00:00"
+        "startTime": "2024-11-01T22:07:58.9480000+00:00",
+        "city": "Redmond, WA, USA"
     },
     {
         "lat": 47.632362365722656,
@@ -1447,7 +1591,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "us",
-        "startTime": "2024-11-01T22:09:31.9810000+00:00"
+        "startTime": "2024-11-01T22:09:31.9810000+00:00",
+        "city": "Redmond, WA, USA"
     },
     {
         "lat": 47.69073486328125,
@@ -1457,7 +1602,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "us",
-        "startTime": "2024-11-01T22:10:41.2760000+00:00"
+        "startTime": "2024-11-01T22:10:41.2760000+00:00",
+        "city": "Redmond, WA, USA"
     },
     {
         "lat": 47.64680862426758,
@@ -1467,7 +1613,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "us",
-        "startTime": "2024-11-01T22:12:28.9790000+00:00"
+        "startTime": "2024-11-01T22:12:28.9790000+00:00",
+        "city": "Redmond, WA, USA"
     },
     {
         "lat": 47.69610595703125,
@@ -1477,7 +1624,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "us",
-        "startTime": "2024-11-01T22:13:40.1550000+00:00"
+        "startTime": "2024-11-01T22:13:40.1550000+00:00",
+        "city": "Redmond, WA, USA"
     },
     {
         "lat": -64.54401399999999,
@@ -1487,7 +1635,8 @@
         "pitch": -3.853708028793335,
         "zoom": 0,
         "streakLocationCode": "aq",
-        "startTime": "2024-11-01T03:25:24.6990000+00:00"
+        "startTime": "2024-11-01T03:25:24.6990000+00:00",
+        "city": ""
     },
     {
         "lat": 45.641595,
@@ -1497,7 +1646,8 @@
         "pitch": -29.347902297973633,
         "zoom": 0,
         "streakLocationCode": "ro",
-        "startTime": "2024-11-01T03:25:55.1340000+00:00"
+        "startTime": "2024-11-01T03:25:55.1340000+00:00",
+        "city": "Bra\u0219ov, Romania"
     },
     {
         "lat": 38.5198827,
@@ -1507,7 +1657,8 @@
         "pitch": -9.841626167297363,
         "zoom": 0,
         "streakLocationCode": "cn",
-        "startTime": "2024-11-01T03:26:20.6670000+00:00"
+        "startTime": "2024-11-01T03:26:20.6670000+00:00",
+        "city": ""
     },
     {
         "lat": 59.48526,
@@ -1517,7 +1668,8 @@
         "pitch": -16.139657974243164,
         "zoom": 0,
         "streakLocationCode": "ee",
-        "startTime": "2024-11-01T03:26:40.0260000+00:00"
+        "startTime": "2024-11-01T03:26:40.0260000+00:00",
+        "city": "\u00dclgase, Harju County, Estonia"
     },
     {
         "lat": 57.2454399,
@@ -1527,7 +1679,8 @@
         "pitch": -20.135913848876953,
         "zoom": 0,
         "streakLocationCode": "lv",
-        "startTime": "2024-11-01T03:26:54.5480000+00:00"
+        "startTime": "2024-11-01T03:26:54.5480000+00:00",
+        "city": "St\u016br\u012b\u0161i, Laidze Parish, Talsi Municipality, Latvia"
     },
     {
         "lat": 47.68052291870117,
@@ -1537,7 +1690,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "us",
-        "startTime": "2024-11-01T03:19:10.9570000+00:00"
+        "startTime": "2024-11-01T03:19:10.9570000+00:00",
+        "city": "Redmond, WA, USA"
     },
     {
         "lat": 47.68073654174805,
@@ -1547,7 +1701,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "us",
-        "startTime": "2024-11-01T03:21:13.2820000+00:00"
+        "startTime": "2024-11-01T03:21:13.2820000+00:00",
+        "city": "Redmond, WA, USA"
     },
     {
         "lat": 47.67477035522461,
@@ -1557,7 +1712,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "us",
-        "startTime": "2024-11-01T03:21:43.9980000+00:00"
+        "startTime": "2024-11-01T03:21:43.9980000+00:00",
+        "city": "Redmond, WA, USA"
     },
     {
         "lat": 47.64159393310547,
@@ -1567,7 +1723,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "us",
-        "startTime": "2024-11-01T03:23:09.0580000+00:00"
+        "startTime": "2024-11-01T03:23:09.0580000+00:00",
+        "city": "Redmond, WA, USA"
     },
     {
         "lat": 47.68140411376953,
@@ -1577,7 +1734,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "us",
-        "startTime": "2024-11-01T03:23:17.3180000+00:00"
+        "startTime": "2024-11-01T03:23:17.3180000+00:00",
+        "city": "Redmond, WA, USA"
     },
     {
         "lat": 47.655723571777344,
@@ -1587,7 +1745,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "us",
-        "startTime": "2024-11-01T03:15:35.5320000+00:00"
+        "startTime": "2024-11-01T03:15:35.5320000+00:00",
+        "city": "Redmond, WA, USA"
     },
     {
         "lat": 47.65040588378906,
@@ -1597,7 +1756,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "us",
-        "startTime": "2024-11-01T03:16:31.1220000+00:00"
+        "startTime": "2024-11-01T03:16:31.1220000+00:00",
+        "city": "Redmond, WA, USA"
     },
     {
         "lat": 47.632362365722656,
@@ -1607,7 +1767,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "us",
-        "startTime": "2024-11-01T03:17:51.8290000+00:00"
+        "startTime": "2024-11-01T03:17:51.8290000+00:00",
+        "city": "Redmond, WA, USA"
     },
     {
         "lat": 47.690738677978516,
@@ -1617,7 +1778,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "us",
-        "startTime": "2024-11-01T03:18:56.5140000+00:00"
+        "startTime": "2024-11-01T03:18:56.5140000+00:00",
+        "city": "Redmond, WA, USA"
     },
     {
         "lat": 47.67670822143555,
@@ -1627,7 +1789,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "us",
-        "startTime": "2024-11-01T03:19:03.0890000+00:00"
+        "startTime": "2024-11-01T03:19:03.0890000+00:00",
+        "city": "Redmond, WA, USA"
     },
     {
         "lat": 47.69578170776367,
@@ -1637,7 +1800,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "us",
-        "startTime": "2024-11-01T03:12:54.7070000+00:00"
+        "startTime": "2024-11-01T03:12:54.7070000+00:00",
+        "city": "Redmond, WA, USA"
     },
     {
         "lat": 47.677093505859375,
@@ -1647,7 +1811,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "us",
-        "startTime": "2024-11-01T03:14:45.6760000+00:00"
+        "startTime": "2024-11-01T03:14:45.6760000+00:00",
+        "city": "Redmond, WA, USA"
     },
     {
         "lat": 47.6917839050293,
@@ -1657,7 +1822,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "us",
-        "startTime": "2024-11-01T03:14:52.3190000+00:00"
+        "startTime": "2024-11-01T03:14:52.3190000+00:00",
+        "city": "Redmond, WA, USA"
     },
     {
         "lat": 47.64159393310547,
@@ -1667,7 +1833,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "us",
-        "startTime": "2024-11-01T03:14:58.3680000+00:00"
+        "startTime": "2024-11-01T03:14:58.3680000+00:00",
+        "city": "Redmond, WA, USA"
     },
     {
         "lat": 47.70439529418945,
@@ -1677,7 +1844,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "us",
-        "startTime": "2024-11-01T03:15:04.2220000+00:00"
+        "startTime": "2024-11-01T03:15:04.2220000+00:00",
+        "city": "Redmond, WA, USA"
     },
     {
         "lat": 47.66979217529297,
@@ -1687,7 +1855,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "us",
-        "startTime": "2024-11-01T03:03:49.4960000+00:00"
+        "startTime": "2024-11-01T03:03:49.4960000+00:00",
+        "city": "Redmond, WA, USA"
     },
     {
         "lat": 47.6312141418457,
@@ -1697,7 +1866,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "us",
-        "startTime": "2024-11-01T03:05:26.8900000+00:00"
+        "startTime": "2024-11-01T03:05:26.8900000+00:00",
+        "city": "Redmond, WA, USA"
     },
     {
         "lat": 47.68675994873047,
@@ -1707,7 +1877,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "us",
-        "startTime": "2024-11-01T03:06:56.4820000+00:00"
+        "startTime": "2024-11-01T03:06:56.4820000+00:00",
+        "city": "Redmond, WA, USA"
     },
     {
         "lat": 47.62819290161133,
@@ -1717,7 +1888,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "us",
-        "startTime": "2024-11-01T03:08:45.5020000+00:00"
+        "startTime": "2024-11-01T03:08:45.5020000+00:00",
+        "city": "Redmond, WA, USA"
     },
     {
         "lat": 47.63816452026367,
@@ -1727,7 +1899,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "us",
-        "startTime": "2024-11-01T03:10:48.4720000+00:00"
+        "startTime": "2024-11-01T03:10:48.4720000+00:00",
+        "city": "Redmond, WA, USA"
     },
     {
         "lat": 47.67555618286133,
@@ -1737,7 +1910,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "us",
-        "startTime": "2024-10-31T06:02:14.5960000+00:00"
+        "startTime": "2024-10-31T06:02:14.5960000+00:00",
+        "city": "Redmond, WA, USA"
     },
     {
         "lat": 47.69804000854492,
@@ -1747,7 +1921,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "us",
-        "startTime": "2024-10-31T06:04:11.9190000+00:00"
+        "startTime": "2024-10-31T06:04:11.9190000+00:00",
+        "city": "Redmond, WA, USA"
     },
     {
         "lat": 47.673152923583984,
@@ -1757,7 +1932,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "us",
-        "startTime": "2024-10-31T06:06:15.6760000+00:00"
+        "startTime": "2024-10-31T06:06:15.6760000+00:00",
+        "city": "Redmond, WA, USA"
     },
     {
         "lat": 47.707767486572266,
@@ -1767,7 +1943,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "us",
-        "startTime": "2024-10-31T06:08:19.7830000+00:00"
+        "startTime": "2024-10-31T06:08:19.7830000+00:00",
+        "city": "Redmond, WA, USA"
     },
     {
         "lat": 47.6297721862793,
@@ -1777,7 +1954,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "us",
-        "startTime": "2024-10-31T06:09:38.6870000+00:00"
+        "startTime": "2024-10-31T06:09:38.6870000+00:00",
+        "city": "Redmond, WA, USA"
     },
     {
         "lat": 47.64234161376953,
@@ -1787,7 +1965,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "us",
-        "startTime": "2024-10-31T05:52:51.1060000+00:00"
+        "startTime": "2024-10-31T05:52:51.1060000+00:00",
+        "city": "Redmond, WA, USA"
     },
     {
         "lat": 47.68775177001953,
@@ -1797,7 +1976,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "us",
-        "startTime": "2024-10-31T05:54:49.9960000+00:00"
+        "startTime": "2024-10-31T05:54:49.9960000+00:00",
+        "city": "Redmond, WA, USA"
     },
     {
         "lat": 47.67886734008789,
@@ -1807,7 +1987,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "us",
-        "startTime": "2024-10-31T05:56:54.6260000+00:00"
+        "startTime": "2024-10-31T05:56:54.6260000+00:00",
+        "city": "Redmond, WA, USA"
     },
     {
         "lat": 47.702152252197266,
@@ -1817,7 +1998,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "us",
-        "startTime": "2024-10-31T05:59:05.2530000+00:00"
+        "startTime": "2024-10-31T05:59:05.2530000+00:00",
+        "city": "Redmond, WA, USA"
     },
     {
         "lat": 47.66281509399414,
@@ -1827,7 +2009,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "us",
-        "startTime": "2024-10-31T06:01:04.5450000+00:00"
+        "startTime": "2024-10-31T06:01:04.5450000+00:00",
+        "city": "Redmond, WA, USA"
     },
     {
         "lat": 13.910630418721892,
@@ -1837,7 +2020,8 @@
         "pitch": 2,
         "zoom": 0,
         "streakLocationCode": "sn",
-        "startTime": "2024-09-03T03:17:45.6830000+00:00"
+        "startTime": "2024-09-03T03:17:45.6830000+00:00",
+        "city": "Malem-Niani, Senegal"
     },
     {
         "lat": 7.404439520914924,
@@ -1847,7 +2031,8 @@
         "pitch": 2,
         "zoom": 0,
         "streakLocationCode": "ng",
-        "startTime": "2024-09-03T03:18:53.1340000+00:00"
+        "startTime": "2024-09-03T03:18:53.1340000+00:00",
+        "city": "Jaguna, Nigeria"
     },
     {
         "lat": 14.70675348134491,
@@ -1857,7 +2042,8 @@
         "pitch": 2,
         "zoom": 0,
         "streakLocationCode": "sn",
-        "startTime": "2024-09-03T03:20:50.8210000+00:00"
+        "startTime": "2024-09-03T03:20:50.8210000+00:00",
+        "city": "Bargny Gouddau, Senegal"
     },
     {
         "lat": -0.9012605158720846,
@@ -1867,7 +2053,8 @@
         "pitch": 2,
         "zoom": 0,
         "streakLocationCode": "ke",
-        "startTime": "2024-09-03T03:21:13.9330000+00:00"
+        "startTime": "2024-09-03T03:21:13.9330000+00:00",
+        "city": "Ndonyo, Kenya"
     },
     {
         "lat": -29.15337227295954,
@@ -1877,7 +2064,8 @@
         "pitch": 2,
         "zoom": 0,
         "streakLocationCode": "za",
-        "startTime": "2024-09-03T03:22:21.9410000+00:00"
+        "startTime": "2024-09-03T03:22:21.9410000+00:00",
+        "city": "Alton, South Africa"
     },
     {
         "lat": -0.968100277697828,
@@ -1887,7 +2075,8 @@
         "pitch": 2,
         "zoom": 0,
         "streakLocationCode": "ke",
-        "startTime": "2024-09-03T03:12:22.6360000+00:00"
+        "startTime": "2024-09-03T03:12:22.6360000+00:00",
+        "city": "Mbondoni, Kenya"
     },
     {
         "lat": 0.11786915507463593,
@@ -1897,7 +2086,8 @@
         "pitch": 2,
         "zoom": 0,
         "streakLocationCode": "ke",
-        "startTime": "2024-09-03T03:14:17.6420000+00:00"
+        "startTime": "2024-09-03T03:14:17.6420000+00:00",
+        "city": "Nabkoi, Kenya"
     },
     {
         "lat": 1.1633307797507018,
@@ -1907,7 +2097,8 @@
         "pitch": 2,
         "zoom": 0,
         "streakLocationCode": "ke",
-        "startTime": "2024-09-03T03:15:23.9140000+00:00"
+        "startTime": "2024-09-03T03:15:23.9140000+00:00",
+        "city": "Kwanza, Kenya"
     },
     {
         "lat": -29.130064372566753,
@@ -1917,7 +2108,8 @@
         "pitch": 2,
         "zoom": 0,
         "streakLocationCode": "za",
-        "startTime": "2024-09-03T03:15:59.4310000+00:00"
+        "startTime": "2024-09-03T03:15:59.4310000+00:00",
+        "city": "Pella, South Africa"
     },
     {
         "lat": -34.05196503498281,
@@ -1927,7 +2119,8 @@
         "pitch": 2,
         "zoom": 0,
         "streakLocationCode": "za",
-        "startTime": "2024-09-03T03:16:30.9590000+00:00"
+        "startTime": "2024-09-03T03:16:30.9590000+00:00",
+        "city": "Plettenberg Bay, South Africa"
     },
     {
         "lat": -26.382444892132266,
@@ -1937,7 +2130,8 @@
         "pitch": 2,
         "zoom": 0,
         "streakLocationCode": "sz",
-        "startTime": "2024-09-03T03:04:10.3550000+00:00"
+        "startTime": "2024-09-03T03:04:10.3550000+00:00",
+        "city": "Lobamba, Eswatini"
     },
     {
         "lat": -30.106749378528693,
@@ -1947,7 +2141,8 @@
         "pitch": 2,
         "zoom": 0,
         "streakLocationCode": "ls",
-        "startTime": "2024-09-03T03:05:50.8100000+00:00"
+        "startTime": "2024-09-03T03:05:50.8100000+00:00",
+        "city": "Old Mohales Hoek, Lesotho"
     },
     {
         "lat": -24.129115468278805,
@@ -1957,7 +2152,8 @@
         "pitch": 2,
         "zoom": 0,
         "streakLocationCode": "bw",
-        "startTime": "2024-09-03T03:07:15.5220000+00:00"
+        "startTime": "2024-09-03T03:07:15.5220000+00:00",
+        "city": "Sesung, Botswana"
     },
     {
         "lat": 14.8374503523644,
@@ -1967,7 +2163,8 @@
         "pitch": 2,
         "zoom": 0,
         "streakLocationCode": "sn",
-        "startTime": "2024-09-03T03:08:17.2010000+00:00"
+        "startTime": "2024-09-03T03:08:17.2010000+00:00",
+        "city": "Pouniar, Senegal"
     },
     {
         "lat": -20.941555847591644,
@@ -1977,7 +2174,8 @@
         "pitch": 2,
         "zoom": 0,
         "streakLocationCode": "bw",
-        "startTime": "2024-09-03T03:11:21.2680000+00:00"
+        "startTime": "2024-09-03T03:11:21.2680000+00:00",
+        "city": ""
     },
     {
         "lat": -28.471803586158675,
@@ -1987,7 +2185,8 @@
         "pitch": 2,
         "zoom": 0,
         "streakLocationCode": "za",
-        "startTime": "2024-08-26T06:16:28.8120000+00:00"
+        "startTime": "2024-08-26T06:16:28.8120000+00:00",
+        "city": "Slabberts, South Africa"
     },
     {
         "lat": -34.09321712612223,
@@ -1997,7 +2196,8 @@
         "pitch": 2,
         "zoom": 0,
         "streakLocationCode": "za",
-        "startTime": "2024-08-26T06:17:14.3040000+00:00"
+        "startTime": "2024-08-26T06:17:14.3040000+00:00",
+        "city": "Riversdale, South Africa"
     },
     {
         "lat": -30.3792135709854,
@@ -2007,7 +2207,8 @@
         "pitch": 2,
         "zoom": 0,
         "streakLocationCode": "ls",
-        "startTime": "2024-08-26T06:18:33.6410000+00:00"
+        "startTime": "2024-08-26T06:18:33.6410000+00:00",
+        "city": "Alwyns Kop, Lesotho"
     },
     {
         "lat": -25.9938671608587,
@@ -2017,7 +2218,8 @@
         "pitch": 2,
         "zoom": 0,
         "streakLocationCode": "za",
-        "startTime": "2024-08-26T06:19:08.6320000+00:00"
+        "startTime": "2024-08-26T06:19:08.6320000+00:00",
+        "city": "Ga-Motlatla, South Africa"
     },
     {
         "lat": -26.39434839695216,
@@ -2027,7 +2229,8 @@
         "pitch": 2,
         "zoom": 0,
         "streakLocationCode": "sz",
-        "startTime": "2024-08-26T06:19:53.5720000+00:00"
+        "startTime": "2024-08-26T06:19:53.5720000+00:00",
+        "city": "Siteki, Eswatini"
     },
     {
         "lat": 7.0165556535567974,
@@ -2037,7 +2240,8 @@
         "pitch": 2,
         "zoom": 0,
         "streakLocationCode": "ng",
-        "startTime": "2024-08-26T06:11:01.2670000+00:00"
+        "startTime": "2024-08-26T06:11:01.2670000+00:00",
+        "city": "Oyiwo, Nigeria"
     },
     {
         "lat": -27.646241997353282,
@@ -2047,7 +2251,8 @@
         "pitch": 2,
         "zoom": 0,
         "streakLocationCode": "za",
-        "startTime": "2024-08-26T06:11:27.5460000+00:00"
+        "startTime": "2024-08-26T06:11:27.5460000+00:00",
+        "city": "Kroonstad, South Africa"
     },
     {
         "lat": -28.032621553517448,
@@ -2057,7 +2262,8 @@
         "pitch": 2,
         "zoom": 0,
         "streakLocationCode": "za",
-        "startTime": "2024-08-26T06:13:06.0140000+00:00"
+        "startTime": "2024-08-26T06:13:06.0140000+00:00",
+        "city": ""
     },
     {
         "lat": -21.25799937958605,
@@ -2067,7 +2273,8 @@
         "pitch": 2,
         "zoom": 0,
         "streakLocationCode": "fr",
-        "startTime": "2024-08-26T06:14:38.7350000+00:00"
+        "startTime": "2024-08-26T06:14:38.7350000+00:00",
+        "city": "L'\u00c9tang-Sal\u00e9, R\u00e9union"
     },
     {
         "lat": 16.354447816384994,
@@ -2077,7 +2284,8 @@
         "pitch": 2,
         "zoom": 0,
         "streakLocationCode": "sn",
-        "startTime": "2024-08-26T06:15:30.3350000+00:00"
+        "startTime": "2024-08-26T06:15:30.3350000+00:00",
+        "city": "Doungel, Senegal"
     },
     {
         "lat": -28.16988133664843,
@@ -2087,7 +2295,8 @@
         "pitch": 2,
         "zoom": 0,
         "streakLocationCode": "za",
-        "startTime": "2024-08-26T06:06:05.0240000+00:00"
+        "startTime": "2024-08-26T06:06:05.0240000+00:00",
+        "city": ""
     },
     {
         "lat": -2.061570526428789,
@@ -2097,7 +2306,8 @@
         "pitch": 2,
         "zoom": 0,
         "streakLocationCode": "rw",
-        "startTime": "2024-08-26T06:08:03.9730000+00:00"
+        "startTime": "2024-08-26T06:08:03.9730000+00:00",
+        "city": "Kigali, Rwanda"
     },
     {
         "lat": -1.8807683060770595,
@@ -2107,7 +2317,8 @@
         "pitch": 2,
         "zoom": 0,
         "streakLocationCode": "rw",
-        "startTime": "2024-08-26T06:08:29.6690000+00:00"
+        "startTime": "2024-08-26T06:08:29.6690000+00:00",
+        "city": "Kigali, Rwanda"
     },
     {
         "lat": -2.0076583320472086,
@@ -2117,7 +2328,8 @@
         "pitch": 2,
         "zoom": 0,
         "streakLocationCode": "rw",
-        "startTime": "2024-08-26T06:09:47.4250000+00:00"
+        "startTime": "2024-08-26T06:09:47.4250000+00:00",
+        "city": "Kabarondo, Rwanda"
     },
     {
         "lat": -27.87251898490985,
@@ -2127,7 +2339,8 @@
         "pitch": 2,
         "zoom": 0,
         "streakLocationCode": "za",
-        "startTime": "2024-08-26T06:10:06.7380000+00:00"
+        "startTime": "2024-08-26T06:10:06.7380000+00:00",
+        "city": "Jan Kempdorp, South Africa"
     },
     {
         "lat": -1.693584329164485,
@@ -2137,7 +2350,8 @@
         "pitch": 2,
         "zoom": 0,
         "streakLocationCode": "rw",
-        "startTime": "2024-08-26T06:00:30.0760000+00:00"
+        "startTime": "2024-08-26T06:00:30.0760000+00:00",
+        "city": "Rubavu, Rwanda"
     },
     {
         "lat": 36.70113333645227,
@@ -2147,7 +2361,8 @@
         "pitch": 2,
         "zoom": 0,
         "streakLocationCode": "tn",
-        "startTime": "2024-08-26T06:02:39.9750000+00:00"
+        "startTime": "2024-08-26T06:02:39.9750000+00:00",
+        "city": "Borj C\u00e9dria, Tunisia"
     },
     {
         "lat": -25.227076085985694,
@@ -2157,7 +2372,8 @@
         "pitch": 2,
         "zoom": 0,
         "streakLocationCode": "za",
-        "startTime": "2024-08-26T06:03:18.7170000+00:00"
+        "startTime": "2024-08-26T06:03:18.7170000+00:00",
+        "city": "Draaikraal, South Africa"
     },
     {
         "lat": 33.463564092330564,
@@ -2167,7 +2383,8 @@
         "pitch": 2,
         "zoom": 0,
         "streakLocationCode": "tn",
-        "startTime": "2024-08-26T06:03:38.0140000+00:00"
+        "startTime": "2024-08-26T06:03:38.0140000+00:00",
+        "city": "Zarzis, Tunisia"
     },
     {
         "lat": 28.230886880050647,
@@ -2177,7 +2394,8 @@
         "pitch": 2,
         "zoom": 0,
         "streakLocationCode": "es",
-        "startTime": "2024-08-26T06:04:25.5950000+00:00"
+        "startTime": "2024-08-26T06:04:25.5950000+00:00",
+        "city": "Marcos Sanchez, Spain"
     },
     {
         "lat": -29.513739173237095,
@@ -2187,7 +2405,8 @@
         "pitch": 2,
         "zoom": 0,
         "streakLocationCode": "ls",
-        "startTime": "2024-08-26T05:55:35.7000000+00:00"
+        "startTime": "2024-08-26T05:55:35.7000000+00:00",
+        "city": "Mofoka, Lesotho"
     },
     {
         "lat": -25.00117813597574,
@@ -2197,7 +2416,8 @@
         "pitch": 2,
         "zoom": 0,
         "streakLocationCode": "za",
-        "startTime": "2024-08-26T05:55:59.6360000+00:00"
+        "startTime": "2024-08-26T05:55:59.6360000+00:00",
+        "city": "Tshikanosi, South Africa"
     },
     {
         "lat": -26.751075667209467,
@@ -2207,7 +2427,8 @@
         "pitch": 2,
         "zoom": 0,
         "streakLocationCode": "sz",
-        "startTime": "2024-08-26T05:56:44.4110000+00:00"
+        "startTime": "2024-08-26T05:56:44.4110000+00:00",
+        "city": "Cana, Eswatini"
     },
     {
         "lat": 6.644203625596583,
@@ -2217,7 +2438,8 @@
         "pitch": 2,
         "zoom": 0,
         "streakLocationCode": "ng",
-        "startTime": "2024-08-26T05:58:47.6530000+00:00"
+        "startTime": "2024-08-26T05:58:47.6530000+00:00",
+        "city": "Oguntoye, Nigeria"
     },
     {
         "lat": 0.8066700507222186,
@@ -2227,7 +2449,8 @@
         "pitch": 2,
         "zoom": 0,
         "streakLocationCode": "ke",
-        "startTime": "2024-08-26T05:59:22.4040000+00:00"
+        "startTime": "2024-08-26T05:59:22.4040000+00:00",
+        "city": ""
     },
     {
         "lat": 42.41495895385742,
@@ -2237,7 +2460,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "me",
-        "startTime": "2024-08-16T07:51:37.5730000+00:00"
+        "startTime": "2024-08-16T07:51:37.5730000+00:00",
+        "city": "Podgorica, Montenegro"
     },
     {
         "lat": 47.44718551635742,
@@ -2247,7 +2471,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "hu",
-        "startTime": "2024-08-16T07:52:56.6200000+00:00"
+        "startTime": "2024-08-16T07:52:56.6200000+00:00",
+        "city": "Budapest, Hungary"
     },
     {
         "lat": -34.58573532104492,
@@ -2257,7 +2482,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "ar",
-        "startTime": "2024-08-16T07:53:30.4700000+00:00"
+        "startTime": "2024-08-16T07:53:30.4700000+00:00",
+        "city": "Buenos Aires, Argentina"
     },
     {
         "lat": 37.9931526184082,
@@ -2267,7 +2493,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "gr",
-        "startTime": "2024-08-16T07:54:23.7760000+00:00"
+        "startTime": "2024-08-16T07:54:23.7760000+00:00",
+        "city": "Athens, Greece"
     },
     {
         "lat": 59.95185470581055,
@@ -2277,7 +2504,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "no",
-        "startTime": "2024-08-16T07:54:49.7080000+00:00"
+        "startTime": "2024-08-16T07:54:49.7080000+00:00",
+        "city": "Oslo, Norway"
     },
     {
         "lat": -36.91672897338867,
@@ -2287,7 +2515,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "cl",
-        "startTime": "2024-08-16T07:49:44.6440000+00:00"
+        "startTime": "2024-08-16T07:49:44.6440000+00:00",
+        "city": "Chiguayante, Chile"
     },
     {
         "lat": -33.42497634887695,
@@ -2297,7 +2526,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "cl",
-        "startTime": "2024-08-16T07:50:11.2870000+00:00"
+        "startTime": "2024-08-16T07:50:11.2870000+00:00",
+        "city": "Independencia, Chile"
     },
     {
         "lat": -20.27112579345703,
@@ -2307,7 +2537,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "cl",
-        "startTime": "2024-08-16T07:50:21.6390000+00:00"
+        "startTime": "2024-08-16T07:50:21.6390000+00:00",
+        "city": "Oficina San Andr\u00e9s, Pozo Almonte, Chile"
     },
     {
         "lat": -41.528526306152344,
@@ -2317,7 +2548,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "cl",
-        "startTime": "2024-08-16T07:50:33.7580000+00:00"
+        "startTime": "2024-08-16T07:50:33.7580000+00:00",
+        "city": "Molinos, Puerto Montt, Chile"
     },
     {
         "lat": -29.876361846923828,
@@ -2327,7 +2559,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "cl",
-        "startTime": "2024-08-16T07:50:45.1820000+00:00"
+        "startTime": "2024-08-16T07:50:45.1820000+00:00",
+        "city": "La Serena, Chile"
     },
     {
         "lat": -33.60531234741211,
@@ -2337,7 +2570,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "cl",
-        "startTime": "2024-08-16T07:47:10.2630000+00:00"
+        "startTime": "2024-08-16T07:47:10.2630000+00:00",
+        "city": "Puente Alto, Chile"
     },
     {
         "lat": -18.474008560180664,
@@ -2347,7 +2581,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "cl",
-        "startTime": "2024-08-16T07:47:22.7820000+00:00"
+        "startTime": "2024-08-16T07:47:22.7820000+00:00",
+        "city": "Arica, Chile"
     },
     {
         "lat": -35.4544792175293,
@@ -2357,7 +2592,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "cl",
-        "startTime": "2024-08-16T07:47:50.8250000+00:00"
+        "startTime": "2024-08-16T07:47:50.8250000+00:00",
+        "city": "Maule, Chile"
     },
     {
         "lat": -29.95951271057129,
@@ -2367,7 +2603,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "cl",
-        "startTime": "2024-08-16T07:48:26.3260000+00:00"
+        "startTime": "2024-08-16T07:48:26.3260000+00:00",
+        "city": "Coquimbo, Chile"
     },
     {
         "lat": -37.036251068115234,
@@ -2377,7 +2614,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "cl",
-        "startTime": "2024-08-16T07:48:49.1430000+00:00"
+        "startTime": "2024-08-16T07:48:49.1430000+00:00",
+        "city": "Cabrero, Chile"
     },
     {
         "lat": -33.041542053222656,
@@ -2387,7 +2625,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "cl",
-        "startTime": "2024-08-16T07:44:19.7110000+00:00"
+        "startTime": "2024-08-16T07:44:19.7110000+00:00",
+        "city": "Valpara\u00edso, Chile"
     },
     {
         "lat": -22.449865341186523,
@@ -2397,7 +2636,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "cl",
-        "startTime": "2024-08-16T07:45:52.8350000+00:00"
+        "startTime": "2024-08-16T07:45:52.8350000+00:00",
+        "city": "Calama, Chile"
     },
     {
         "lat": -41.8707275390625,
@@ -2407,7 +2647,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "cl",
-        "startTime": "2024-08-16T07:46:19.0720000+00:00"
+        "startTime": "2024-08-16T07:46:19.0720000+00:00",
+        "city": "Ancud, Chile"
     },
     {
         "lat": -18.48257827758789,
@@ -2417,7 +2658,8 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "cl",
-        "startTime": "2024-08-16T07:46:45.1700000+00:00"
+        "startTime": "2024-08-16T07:46:45.1700000+00:00",
+        "city": "Arica, Chile"
     },
     {
         "lat": -33.264678955078125,
@@ -2427,6 +2669,7 @@
         "pitch": 0,
         "zoom": 0,
         "streakLocationCode": "cl",
-        "startTime": "2024-08-16T07:46:57.4100000+00:00"
+        "startTime": "2024-08-16T07:46:57.4100000+00:00",
+        "city": "Curacavi, Chile"
     }
 ]
