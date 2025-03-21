@@ -2,6 +2,7 @@ import os
 import requests
 import json
 from dotenv import load_dotenv
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 def get_city_name(lat, lng):
     google_maps_api_key = os.getenv("GOOGLE_MAPS_API_KEY")
@@ -22,19 +23,29 @@ def get_city_name(lat, lng):
         print(f"Failed to fetch reverse geocode data for {lat}, {lng}:", response.status_code)
         return ""
 
+def process_round(round):
+    """Processes a single round entry by adding the city name."""
+    city = get_city_name(round["lat"], round["lng"])
+    round["city"] = city
+    return round
 
-def add_city_to_data(game_rounds_file):
+
+def add_city_to_data(game_rounds_file, max_threads=20):
     with open(game_rounds_file, "r") as file:
         data = json.load(file)
     
-    # Process each entry
-    for round in data:
-        city = get_city_name(round["lat"], round["lng"])
-        round["city"] = city  # Add city to the entry
+    updated_data = []
+
+    # Multithread API requests
+    with ThreadPoolExecutor(max_threads) as executor:
+        future_to_round = {executor.submit(process_round, round): round for round in data}
+        
+        for future in as_completed(future_to_round):
+            updated_data.append(future.result())
 
     # Save updated JSON
     with open(game_rounds_file, "w") as file:
-        json.dump(data, file)
+        json.dump(updated_data, file)
 
 
 if __name__ == "__main__":
