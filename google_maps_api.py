@@ -6,31 +6,55 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 
 def get_city_name(lat, lng):
     google_maps_api_key = os.getenv("GOOGLE_MAPS_API_KEY")
-    request_url = f"https://maps.googleapis.com/maps/api/geocode/json?latlng={lat},{lng}&key={google_maps_api_key}"
+    if not google_maps_api_key:
+        print("GOOGLE_MAPS_API_KEY not set; skipping reverse geocode")
+        return ""
 
-    response = requests.get(request_url)
-    if response.status_code == 200:
-        # parse city name from response
-        reverse_geocode_data = response.json()
-        if "plus_code" in reverse_geocode_data and "compound_code" in reverse_geocode_data["plus_code"]:
-            compound_code = reverse_geocode_data["plus_code"]["compound_code"]
-            city = compound_code[compound_code.find(" ")+1:]
-            return city
-        elif "results" in reverse_geocode_data and len(reverse_geocode_data["results"]) > 0:
-            for result in reverse_geocode_data["results"]:
-                location_name = ""
-                if "formatted_address" in result and '+' not in result["formatted_address"]:
-                    location_name = result["formatted_address"]
-                    return location_name
-        
-        # if no location name found that doesn't contain a geocode
-        print(f"Location name not found for {lat}, {lng}")
-        with open("reverse_geocode.json", "a") as file:
-            json.dump(reverse_geocode_data, file)
+    params = {"latlng": f"{lat},{lng}", "key": google_maps_api_key}
+    try:
+        response = requests.get(
+            "https://maps.googleapis.com/maps/api/geocode/json",
+            params=params,
+            timeout=10,
+        )
+    except Exception as e:
+        print(f"Reverse geocode request failed for {lat},{lng}: {e}")
         return ""
-    else:
-        print(f"Failed to fetch reverse geocode data for {lat}, {lng}:", response.status_code)
+
+    if response.status_code != 200:
+        print(f"Geocode HTTP {response.status_code} for {lat},{lng}")
         return ""
+
+    reverse_geocode_data = response.json()
+    status = reverse_geocode_data.get("status")
+    if status != "OK":
+        print(f"Geocode API status {status} for {lat},{lng} - saving response to geocode_debug.json")
+        with open("geocode_debug.json", "a") as fh:
+            fh.write(json.dumps({"lat": lat, "lng": lng, "status": status, "response": reverse_geocode_data}) + "\n")
+        return ""
+
+    # Prefer locality / postal_town from address_components
+    for result in reverse_geocode_data.get("results", []):
+        for comp in result.get("address_components", []):
+            types = comp.get("types", [])
+            if "locality" in types or "postal_town" in types:
+                return comp.get("long_name", "")
+
+    # Fallback to admin areas then formatted_address
+    for preferred in ("administrative_area_level_2", "administrative_area_level_1", "country"):
+        for result in reverse_geocode_data.get("results", []):
+            for comp in result.get("address_components", []):
+                if preferred in comp.get("types", []):
+                    return comp.get("long_name", "")
+
+    first = reverse_geocode_data.get("results", [None])[0]
+    if first and "formatted_address" in first:
+        return first["formatted_address"]
+
+    # If nothing found, log full response for debugging
+    with open("geocode_debug.json", "a") as fh:
+        fh.write(json.dumps({"lat": lat, "lng": lng, "response": reverse_geocode_data}) + "\n")
+    return ""
 
 def process_round(round):
     # Try classic format first
