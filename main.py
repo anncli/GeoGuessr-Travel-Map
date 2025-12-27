@@ -1,5 +1,4 @@
 import os
-import json
 import sys
 import subprocess
 from dotenv import load_dotenv
@@ -8,28 +7,25 @@ load_dotenv()
 
 from geoguessr_api import feed_scraper, game_scraper
 import google_maps_api
+import geoguessr_db
 
 def main():
-    feed_url = "https://www.geoguessr.com/api/v4/feed/private"
+    PROFILE_FEED_URL = "https://www.geoguessr.com/api/v4/feed/private"
 
-    # 1) fetch feed
+    geoguessr_db.init_db()   # Initialize DB file
+
+    # 1) Fetch Profile Feed
     print("Fetching feed...")
-    feed_data = feed_scraper.fetch_feed_data(feed_url)
+    feed_data = feed_scraper.fetch_feed_data(PROFILE_FEED_URL)
     if not feed_data:
         print("No feed data, exiting.")
         return
 
-    # 2) extract tokens (separates classic and duel)
+    # 2) Extract Tokens
     print("Extracting game tokens...")
     classic_entries, duel_entries, classic_tokens, duel_tokens = (
         feed_scraper.extract_game_tokens_list(feed_data, check_timestamp=False)
     )
-
-    # save token lists
-    with open("classic_game_tokens.json", "w") as f:
-        json.dump(classic_tokens, f, indent=2)
-    with open("duel_game_tokens.json", "w") as f:
-        json.dump(duel_tokens, f, indent=2)
 
     # prepare headers
     cookie = os.getenv("BROWSER_COOKIE")
@@ -39,34 +35,45 @@ def main():
     else:
         print("Warning: BROWSER_COOKIE not set; some endpoints may require auth.")
 
-    # 3) fetch game data
-    print(f"Fetching {len(classic_tokens)} classic games...")
-    classic_games = []
+    # 3) Fetch & Save New Game Data to DB
+    print(f"Processing {len(classic_tokens)} classic tokens...")
     for token in classic_tokens:
-        g = game_scraper.fetch_classic_game(token, headers)
-        if g:
-            classic_games.append(g)
+        existing_game_id = geoguessr_db.get_game_id_by_token(token)
+        if existing_game_id and geoguessr_db.has_rounds_for_game(existing_game_id):
+            continue
 
-    print(f"Fetching {len(duel_tokens)} duel games...")
-    duel_games = []
-    for gid in duel_tokens:
-        g = game_scraper.fetch_duel_game(gid, headers)
-        if g:
-            duel_games.append(g)
+        print(f"Fetching classic game {token}...")
+        game = game_scraper.fetch_classic_game(token, headers)
+        if game:
+            game_id = geoguessr_db.save_game("classic", token, game)
+            # only save rounds if DB doesn't already have them
+            if not geoguessr_db.has_rounds_for_game(game_id):
+                rounds = game.get("rounds", [])
+                geoguessr_db.save_rounds(game_id, rounds)
 
-    # save fetched game data
-    with open("classic_games_data.json", "w") as f:
-        json.dump(classic_games, f, indent=2)
-    with open("duel_games_data.json", "w") as f:
-        json.dump(duel_games, f, indent=2)
+    print(f"Processing {len(duel_tokens)} duel tokens...")
+    for duel_id in duel_tokens:
+        existing_game_id = geoguessr_db.get_game_id_by_token(duel_id)
+        if existing_game_id and geoguessr_db.has_rounds_for_game(existing_game_id):
+            continue
 
-    # 4) add city names to round data (in-place)
-    print("Adding city names to classic games...")
-    google_maps_api.add_city_to_data("classic_games_data.json")
-    print("Adding city names to duel games...")
-    google_maps_api.add_city_to_data("duel_games_data.json")
+        print(f"Fetching duel game {duel_id}...")
+        duel = game_scraper.fetch_duel_game(duel_id, headers)
+        if duel:
+            game_id = geoguessr_db.save_game("duel", duel_id, duel)
+            if not geoguessr_db.has_rounds_for_game(game_id):
+                rounds = duel.get("rounds", [])
+                geoguessr_db.save_rounds(game_id, rounds)
 
-    # 5) run the visualization script from its folder (so relative paths resolve)
+    # 4) Call Google Maps API to Reverse Geocode Ungeocoded Rounds
+    print("Geocoding ungeocoded rounds...")
+    to_process = geoguessr_db.get_ungeocoded_rounds(limit=2000)
+    for rid, lat, lng in to_process:
+        city = google_maps_api.get_city_name(lat, lng)
+        geoguessr_db.update_round_city(rid, city)
+
+    # 5) Export CSV and Launch Visualization
+    geoguessr_db.export_rounds_to_csv(os.path.join("visualization", "data_points.csv"))
     visualization_dir = os.path.join(os.path.dirname(__file__), "visualization")
     print("Launching visualization...")
     subprocess.run([sys.executable, "plotly-map.py"], cwd=visualization_dir, check=False)

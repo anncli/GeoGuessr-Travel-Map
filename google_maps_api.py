@@ -5,6 +5,9 @@ from dotenv import load_dotenv
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 def get_city_name(lat, lng):
+    """
+    Use Google Geocoding API. On any error or non-OK status return empty string.
+    """
     google_maps_api_key = os.getenv("GOOGLE_MAPS_API_KEY")
     if not google_maps_api_key:
         print("GOOGLE_MAPS_API_KEY not set; skipping reverse geocode")
@@ -51,7 +54,7 @@ def get_city_name(lat, lng):
     if first and "formatted_address" in first:
         return first["formatted_address"]
 
-    # If nothing found, log full response for debugging
+    # nothing found — log and return empty
     with open("geocode_debug.json", "a") as fh:
         fh.write(json.dumps({"lat": lat, "lng": lng, "response": reverse_geocode_data}) + "\n")
     return ""
